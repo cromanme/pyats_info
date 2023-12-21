@@ -1,7 +1,7 @@
 # Example
 # -------
-#
-#   an example two router testbed
+# https://pubhub.devnetcloud.com/media/pyats/docs/topology/example.html
+# an example two router testbed
 
 extends: base_tb_config.yaml
 
